@@ -1,5 +1,5 @@
 {
-    "name": "codedefective/composer-git-hooks",
+    "name": "codedefective/cg-hooks",
     "description": "Composer Git Hook",
     "type": "library",
     "minimum-stability": "stable",
